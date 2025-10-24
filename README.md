@@ -1,7 +1,7 @@
 # Special 💊 Pumpfun Smart Contract
 
 The **Special Pumpfun Smart Contract** is a customized version of the popular Pump.fun system — but with a twist.  
-Instead of using **SOL** as the base currency, this contract is built to **operate entirely with a specific SPL token**.  
+Instead of using **SOL** as the base token, this contract is built to **operate entirely with a specific SPL token**.  
 
 This enables developers to launch, trade, and interact within ecosystems where SOL isn’t the primary currency.
 
